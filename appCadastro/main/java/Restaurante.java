@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 @Entity
-@Table(name = "restaurante")
+@Table(name = "restaurantes")
 public class Restaurante extends PanacheEntityBase {
 
     @Id
