@@ -9,7 +9,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     <groupId>org.foodApp</groupId>
-    <artifactId>appCadastro</artifactId>
+    <artifactId>TesteApp</artifactId>
 
     <dependencies>
         <dependency>

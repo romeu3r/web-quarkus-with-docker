@@ -1,4 +1,4 @@
-import io.quarkus.hibernate.reactive.panache.PanacheEntityBase;
+import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
@@ -13,6 +13,6 @@ import java.util.List;
 public class RestauranteResource extends PanacheEntityBase {
     @GET
     public List<Restaurante> hello() {
-        return (List<Restaurante>) Restaurante.listAll();
+        return Restaurante.listAll();
     }
 }

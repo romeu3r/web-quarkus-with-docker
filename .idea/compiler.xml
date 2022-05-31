@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="testeApp" />
         <module name="appPedido" />
         <module name="appCadastro" />
         <module name="foodAppCadastro" />
@@ -13,12 +14,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="appIfood" target="1.5" />
       <module name="appIfood (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="appCadastro" options="-parameters -parameters" />
+      <module name="appCadastro" options="-parameters" />
+      <module name="testeApp" options="-parameters" />
     </option>
   </component>
 </project>

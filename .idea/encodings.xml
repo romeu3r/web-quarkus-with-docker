@@ -3,7 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/appCadastro/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/appCadastro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appIfood/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appIfood/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testeApp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testeApp/src/main/resources" charset="UTF-8" />
   </component>
 </project>
