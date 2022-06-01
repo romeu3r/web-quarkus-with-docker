@@ -1,4 +1,5 @@
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
+import org.eclipse.microprofile.openapi.annotations.media.Schema;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
