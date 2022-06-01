@@ -1,0 +1,56 @@
+[
+  {
+    "dataAtualizacao": "2022-06-01T13:16:13.234Z[UTC]",
+    "dataCriacao": "2022-06-01T13:16:13.234Z[UTC]",
+    "id": 3,
+    "nome": "WIllian"
+  },
+  {
+    "cnpj": "string",
+    "dataAtualizacao": "2022-06-01T13:16:46.056Z[UTC]",
+    "dataCriacao": "2022-06-01T13:13:42.133Z[UTC]",
+    "id": 1,
+    "nome": "WIllian_N",
+    "proprietario": "string"
+  },
+  {
+    "cnpj": "string",
+    "dataAtualizacao": "2022-06-01T13:17:56.534Z[UTC]",
+    "dataCriacao": "2022-06-01T13:13:45.022Z[UTC]",
+    "id": 2,
+    "nome": "WIllian_N2000",
+    "proprietario": "string"
+  },
+  {
+    "cnpj": "string",
+    "dataAtualizacao": "2022-06-01T13:35:20.791Z[UTC]",
+    "dataCriacao": "2022-06-01T13:35:20.791Z[UTC]",
+    "id": 5,
+    "nome": "BNovoB",
+    "proprietario": "string"
+  },
+  {
+    "cnpj": "string",
+    "dataAtualizacao": "2022-06-01T15:42:46.304Z[UTC]",
+    "dataCriacao": "2022-06-01T15:42:46.305Z[UTC]",
+    "id": 6,
+    "nome": "BNovoB",
+    "proprietario": "string"
+  },
+  {
+    "cnpj": "string",
+    "dataAtualizacao": "2022-06-01T15:42:53.046Z[UTC]",
+    "dataCriacao": "2022-06-01T15:42:53.046Z[UTC]",
+    "id": 7,
+    "nome": "Xnovooovn",
+    "proprietario": "string"
+  },
+  {
+    "cnpj": "string",
+    "dataAtualizacao": "2022-06-01T16:09:46.547Z[UTC]",
+    "dataCriacao": "2022-06-01T16:09:46.547Z[UTC]",
+    "id": 8,
+    "nome": "Betaaa",
+    "proprietario": "string"
+  }
+]

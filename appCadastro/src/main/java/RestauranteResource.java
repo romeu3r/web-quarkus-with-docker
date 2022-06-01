@@ -16,7 +16,7 @@ public class RestauranteResource extends PanacheEntityBase {
 
     @GET
     public List<Restaurante> buscarRestaurante() {
-        return listAll();
+        return Restaurante.listAll();
     }
 
     @POST

@@ -1,0 +1,7 @@
+restaurantes:
+  - ID: 555
+    NOME: "Novo Restaurante"
+    PROPRIETARIO: "ID do Restaurante"
+  - ID: 789
+    NOME: "Novo Restaurante 2"
+    PROPRIETARIO: "ID do Restaurante 2"

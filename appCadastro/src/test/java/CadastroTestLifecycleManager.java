@@ -12,12 +12,10 @@ public class CadastroTestLifecycleManager implements QuarkusTestResourceLifecycl
     public Map<String, String> start() {
         POSTGRES.start();
         Map<String, String> propriedades = new HashMap<String, String>();
-
         //Banco de dados
         propriedades.put("quarkus.datasource.jdbc.url", POSTGRES.getJdbcUrl());
         propriedades.put("quarkus.datasource.username", POSTGRES.getUsername());
         propriedades.put("quarkus.datasource.password", POSTGRES.getPassword());
-
         return propriedades;
     }
 
