@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TesteApp" />
         <module name="testeApp" />
         <module name="appPedido" />
         <module name="appCadastro" />
@@ -16,6 +15,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="appIfood (1)" target="1.8" />
+      <module name="TesteApp" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

@@ -37,6 +37,5 @@
         <module>appCadastro</module>
         <module>appMarketplace</module>
         <module>appPedido</module>
-        <module>testeApp</module>
     </modules>
 </project>
